@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "c:\\Users\\sebas\\python\\Flask_Blog\\flask_blog\\Scripts\\python.exe",
+    "python.pythonPath": "flask_blog\\Scripts\\python.exe",
     "python.linting.pylintEnabled": false,
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true
